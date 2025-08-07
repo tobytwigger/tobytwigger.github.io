@@ -1,3 +1,17 @@
+- name: Swytch Tools
+  description: Bespoke ERP platform for Swytch
+  text: "A fully featured ERP platform, including stock management, international dangerous goods shipping, forecasting, returns, order management and more."
+  remote: false
+  tools: [PHP, Laravel, Vue, AI]
+  slug: swytch-tools
+
+- name: When is Bins?
+  description: "A raspberry pi based bin notification system"
+  text: "A solution to the age old 'what bin is it today?' question."
+  remote: false
+  tools: [Python, Raspberry Pi, Nuxt.js, Tailwind]
+  slug: when-is-bins
+
 - name: Laravel Settings
   remote: true
   repository: "tobytwigger/laravel-settings"
@@ -24,32 +38,30 @@
   repository: "tobytwigger/form-schema-generator"
   tools: [PHP, Laravel, Vue]
 
+- name: GPS Vault
+  description: Analyse and manage GPS tracks for cycling
+  text: "Extract data from GPS files, plan new cycling routes and report on your activities."
+  remote: false
+  tools: [PHP, Laravel, Vue]
+  slug: gps-vault
+
 - name: Bristol SU Portal
-  description: TODO
+  description: A no-code service delivery platform for Bristol Student Union
+  text: "Build and deliver services without code, with access controls, custom forms and more."
+  tools: [PHP, Laravel, Vue]
   remote: false
   slug: bristol-su-portal
 
-- name: GPS Vault
-  description: TODO
-  remote: false
-  slug: gps-vault
-
-- name: Swytch Tools
-  description: TODO
-  remote: false
-  slug: swytch-tools
-
 - name: UniTruths
-  description: TODO
+  description: "Facebook community management for university students."
+  text: "An international platform for students to share and connect with their peers."
   remote: false
+  tools: [PHP, Laravel, Bootstrap]
   slug: uni-truths
 
 - name: Event Entrance System
-  description: TODO
+  description: "An event entrance system"
+  text: "The system used by the University of Bristol to manage access to the Welcome Fair"
   remote: false
+  tools: [C#, Vue, Bootstrap]
   slug: entrance
-
-- name: When is Bins?
-  description: TODO
-  remote: false
-  slug: when-is-bins
