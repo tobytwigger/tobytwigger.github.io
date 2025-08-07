@@ -6,11 +6,11 @@
 
     {%- for repo in site.github.public_repositories -%}
 
-      {%- if remote_project == repo.name -%}
+      {%- if remote_project.name == repo.name -%}
 
         {%- assign project = repo -%}
         {%- assign words = project.name | split: '-' -%}
-        
+
         {%- capture titlecase -%}
           {%- for word in words -%}
             {{ word | capitalize | append: ' ' }}
@@ -21,9 +21,9 @@
         {%- assign project_id    = project.name -%}
         {%- assign project_img   = false -%}
         {%- assign project_name  = titlecase | strip -%}
-        {%- assign project_desc  = project.description -%}
+        {%- assign project_desc  = remote_project.description | default: project.description -%}
         {%- assign project_url   = project.html_url -%}
-        {%- assign project_tools = project.topics -%}
+        {%- assign project_tools = remote_project.tools | default: project.topics -%}
         {%- assign external      = true -%}
 
         {% include projects/project-card.html %}

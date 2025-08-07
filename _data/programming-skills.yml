@@ -1,11 +1,26 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: PHP
+  percentage: 100
 
-- name: Go
-  percentage: 80
-  color:
+- name: JavaScript
+  percentage: 100
+
+- name: TypeScript
+  percentage: 85
+
+- name: HTML/CSS
+  percentage: 85
 
 - name: Python
+  percentage: 85
+
+- name: Bash
   percentage: 70
-  color: secondary
+
+- name: Kotlin
+  percentage: 60
+
+- name: Flutter
+  percentage: 60
+
+- name: C#
+  percentage: 50

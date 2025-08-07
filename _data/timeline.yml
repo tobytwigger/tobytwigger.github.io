@@ -1,17 +1,65 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Swytch
+  subtitle: Lead Developer
+  description: Swytch has transformed the e-bike market, allowing customers to electrify their existing bike.
+  from: "September 2022"
+  to: "Present"
+  highlights:
+    - Led the full development lifecycle of a bespoke ERP system, including a live warehouse platform for stock management, international dangerous goods shipping, and stock forecasting.
+    - Architected a scalable solution enabling daily releases, rapid iteration, and real-time business intelligence — improving on-time deliveries from 30\% to 70\%.
+    - Replaced manual workflows using systems, allowing a reduction of stock overheads by £1M through a just-in-time stock pivot.
+    - Integrated AI to automate customer support and internal operations
+    - Oversaw project planning, infrastructure, and stakeholder communication, delivering a cohesive vision and enabling cross-team collaboration and rapid business impact.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: ElbowSpace
+  subtitle: Senior Full-Stack Developer
+  from: "July 2021"
+  to: "August 2022"
+  description: ElbowSpace aimed to combine modern web development with the requirements of Student Unions to improve the student experience.
+  highlights:
+    - Lead development of a custom platform for Student Union membership management.
+    - Worked closely with customers and other developers to target features and prioritise development.
+    - As the first hire, I played an integral part in managing ElbowSpace, gaining a much wider experience of running a startup and the pitfalls involved.
+    - Analysed and assessed new technology for suitability in certain situations, making architectural decisions where necessary.
+
+- title: Jadu
+  subtitle: PHP Web Developer
+  from: "August 2020"
+  to: "July 2021"
+  highlights:
+    - Worked in a small team to deliver bespoke sites to UK councils.
+    - Collaborated with the core CMS developers to ensure a smoother developer experience and quicker results for the customer.
+    - Took the initiative to improve tooling around the CMS, including adding Docker support and extending documentation.
+
+
+- title: Bristol Student Union
+  subtitle: Systems Developer
+  from: "July 2017"
+  to: "July 2021"
+  highlights:
+    - Developed multiple bespoke platforms and tools to reduce cost and friction in day-to-day work.
+    - Spotted and implemented process improvements throughout the organisation.
+    - Sole developer in a company of around 200 people, allowing me to gain a wide range of experience in many different areas and languages.
+
+
+- title: Consult Believe
+  subtitle: Web Developer Internship
+  from: "March 2018"
+  to: "June 2018"
+  highlights:
+    - Worked in a small team providing a consultancy service to several clients, using bespoke systems and well-known frameworks such as Drupal.
+    - Focused on customer success, providing a great service to customers whilst keeping our workload sustainable.
+
+- title: University of Bristol
+  subtitle: MSci (Hons) in Physics - 2:1
+  from: "2015"
+  to: "2019"
+  highlights:
+    - Dissertation involved designing a neural network using Tensorflow to analyze data from the Large Hadron Collider to classify particle collisions. <a href="/assets/docs/Final_Year_Project_Report.pdf">View paper</a>
+    - Multiple coding modules, involving highly optimised programs running on supercomputers.
+
+- title: Torquay Boys' Grammar School
+  subtitle: International Baccalaureate
+  from: "2013"
+  to: "2015"
+  highlights:
+    - 37 points with highers in Maths, Physics and Economics.

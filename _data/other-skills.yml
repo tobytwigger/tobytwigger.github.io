@@ -1,7 +1,17 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: LLMs/AI
+  percentage: 85
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: PHPUnit
+  percentage: 95
+
+- name: Jest
+  percentage: 85
+
+- name: CI
+  percentage: 85
+
+- name: DevOps
+  percentage: 85
+
+- name: Hardware - Raspberry Pi
+  percentage: 75

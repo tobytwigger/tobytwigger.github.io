@@ -1,0 +1,23 @@
+- name: Laravel
+  percentage: 100
+
+- name: Vue
+  percentage: 100
+
+- name: Tailwind
+  percentage: 90
+
+- name: Symfony
+  percentage: 80
+
+- name: React
+  percentage: 70
+
+- name: PHPUnit
+  percentage: 90
+
+- name: Jest
+  percentage: 70
+
+- name: Next.js
+  percentage: 70
