@@ -1,7 +1,5 @@
 ---
-name: Swytch Tools
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: swytch-tools
 ---
 
 # Laravel Settings

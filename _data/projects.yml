@@ -1,0 +1,55 @@
+- name: Laravel Settings
+  remote: true
+  repository: "tobytwigger/laravel-settings"
+  text: For config that needs to be modified by users. Includes authorisation, validation, encryption and more.
+  tools: [PHP, Laravel, Vue]
+
+- name: Laravel Translate
+  remote: true
+  repository: "tobytwigger/laravel-translate"
+  text: A replacement for Laravel language files, allowing multiple translation providers to be used to get around usage limits.
+  tools: [PHP, Laravel, Vue]
+
+- name: Laravel Job Status
+  remote: true
+  repository: "tobytwigger/laravel-job-status"
+  description: Tracking, monitoring and interacting with jobs in Laravel
+  text: Tracking dashboard for Laravel jobs, including cancelling, sending arbitrary signals, logging and reporting.
+  tools: [PHP, Laravel, Vue]
+
+- name: Form Schema Generator
+  description: Tool to define and display forms using JSON
+  text: Forms can be defined in the backend using fluent, typed methods. Generic form fields can be defined in the frontend to match the schema and show the form.
+  remote: true
+  repository: "tobytwigger/form-schema-generator"
+  tools: [PHP, Laravel, Vue]
+
+- name: Bristol SU Portal
+  description: TODO
+  remote: false
+  slug: bristol-su-portal
+
+- name: GPS Vault
+  description: TODO
+  remote: false
+  slug: gps-vault
+
+- name: Swytch Tools
+  description: TODO
+  remote: false
+  slug: swytch-tools
+
+- name: UniTruths
+  description: TODO
+  remote: false
+  slug: uni-truths
+
+- name: Event Entrance System
+  description: TODO
+  remote: false
+  slug: entrance
+
+- name: When is Bins?
+  description: TODO
+  remote: false
+  slug: when-is-bins

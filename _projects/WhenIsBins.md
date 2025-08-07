@@ -1,7 +1,5 @@
 ---
-name: When is Bins?
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: when-is-bins
 ---
 
 # Laravel Settings

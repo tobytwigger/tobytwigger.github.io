@@ -1,7 +1,5 @@
 ---
-name: Welcome Fair Entrance System
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: entrance
 ---
 
 # Laravel Settings

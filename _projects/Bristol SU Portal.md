@@ -1,7 +1,5 @@
 ---
-name: Bristol SU Portal
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: bristol-su-portal
 ---
 
 # Laravel Settings

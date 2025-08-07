@@ -1,7 +1,5 @@
 ---
-name: UniTruths
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: uni-truths
 ---
 
 # Laravel Settings

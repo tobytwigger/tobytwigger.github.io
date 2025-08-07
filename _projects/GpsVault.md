@@ -1,7 +1,5 @@
 ---
-name: GPS Vault
-tools: [PHP, Laravel, Vue]
-description: TODO
+slug: gps-vault
 ---
 
 # Laravel Settings

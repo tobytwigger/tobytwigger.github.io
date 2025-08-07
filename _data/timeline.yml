@@ -1,14 +1,17 @@
 - title: Swytch
   subtitle: Lead Developer
-  description: Swytch has transformed the e-bike market, allowing customers to electrify their existing bike.
+  description: Swytch empowers people to choose sustainable transport by electrifying their existing bikes. This has enabled over 100,000 users to reduce emissions and make eco-friendly travel accessible worldwide.
   from: "September 2022"
   to: "Present"
   highlights:
-    - Led the full development lifecycle of a bespoke ERP system, including a live warehouse platform for stock management, international dangerous goods shipping, and stock forecasting.
-    - Architected a scalable solution enabling daily releases, rapid iteration, and real-time business intelligence — improving on-time deliveries from 30\% to 70\%.
-    - Replaced manual workflows using systems, allowing a reduction of stock overheads by £1M through a just-in-time stock pivot.
-    - Integrated AI to automate customer support and internal operations
-    - Oversaw project planning, infrastructure, and stakeholder communication, delivering a cohesive vision and enabling cross-team collaboration and rapid business impact.
+    - While at Swytch, I led the full development lifecycle of a bespoke ERP system, including a live warehouse platform for stock management, international dangerous goods shipping, stock forecasting, returns handling and anything else that was needed. <a href="/projects/swytchtools" target="_blank">See more about this project.</a>
+    - I worked closely with the rest of the business to convert ideas, painpoints and timesinks into a cohesive platform that transformed how we operated, taking on-time deliveries from 30% to 70% while reducing our operational costs.
+    - I found and implemented multiple open source projects to quickly enable things like business intelligence and rapid AI integration, letting us deliver maximum impact with minimum budget and effort. Through delivering training, I was able to increase the impact of these tools and allow users to independently improve their own workflows.
+    - Through architecting a scalable and robust system, I enabled multiple daily releases and rapid iterations on features, allowing us to deliver exactly what the company needed and to pivot when necessary. For example, through a just-in-time stock pivot, we were able to reduce stock overheads by £1M.
+    - With careful planning and putting users and their needs at the heart of everything I did, as well as monitoring the entire lifecycle of the project, we were able to see the impact of new features immediately and carry the momentum forward to generate new ideas.
+    - Keeping up to date with the latest technologies, I was able to quickly implement and deploy new features and tools, such as using large language models to automate parts of customer support.
+    - Through constant personal learning and development, I was able to improve communications with the rest of the business, ensuring everyone was on the same page, the most important features were always prioritised and that others knew what was being done and when.
+    - Using ideas from well-established books such as 'The Phoenix Project' and 'Turn the ship around', I fostered and maintained a culture of continuous learning and development, allowing us to deliver the best possible experience for our users.
 
 - title: ElbowSpace
   subtitle: Senior Full-Stack Developer
@@ -16,46 +19,51 @@
   to: "August 2022"
   description: ElbowSpace aimed to combine modern web development with the requirements of Student Unions to improve the student experience.
   highlights:
-    - Lead development of a custom platform for Student Union membership management.
-    - Worked closely with customers and other developers to target features and prioritise development.
-    - As the first hire, I played an integral part in managing ElbowSpace, gaining a much wider experience of running a startup and the pitfalls involved.
-    - Analysed and assessed new technology for suitability in certain situations, making architectural decisions where necessary.
+    - I lead development of a custom platform for Student Union membership management, making sure it was secure, user-friendly and what Student Unions needed.
+    - I worked closely with customers and other developers to target features and prioritise development.
+    - As the first hire at ElbowSpace, I played an integral part in managing the direction of the company, gaining a much wider experience of running a startup and the opportunities and pitfalls involved.
+    - Through analysing and assessing new technology for suitability, I was able to make architectural decisions that allowed us to change and pivot features to suit different customers needs.
 
 - title: Jadu
   subtitle: PHP Web Developer
   from: "August 2020"
   to: "July 2021"
+  description: Jadu is a CMS for local government, higher education and healthcare. It allows organisations around the world to build the best possible connections to their customers via low-code products.
   highlights:
-    - Worked in a small team to deliver bespoke sites to UK councils.
-    - Collaborated with the core CMS developers to ensure a smoother developer experience and quicker results for the customer.
-    - Took the initiative to improve tooling around the CMS, including adding Docker support and extending documentation.
-
+    - I worked in a small team to deliver bespoke sites to a number of UK councils.
+    - I collaborated with the core CMS developers to ensure a smoother developer experience and quicker results for the customer. This included both using the core CMS code to extend what customers needed, as well as opening lines of communication to the core CMS developers to make sure they were able to meet the needs of customers and proactively improve the platform.
+    - I took the initiative to improve tooling around the CMS, including adding Docker support and extending documentation for a better developer experience.
 
 - title: Bristol Student Union
   subtitle: Systems Developer
   from: "July 2017"
   to: "July 2021"
+  description: Bristol Student Union is the union for students at the University of Bristol. They provide a range of services to help students navigate their student experience.
   highlights:
-    - Developed multiple bespoke platforms and tools to reduce cost and friction in day-to-day work.
-    - Spotted and implemented process improvements throughout the organisation.
-    - Sole developer in a company of around 200 people, allowing me to gain a wide range of experience in many different areas and languages.
-
+    - I was initially hired as a student for data entry, but quickly spotted opportunities for systems improvements and quickly became a developer, going full time immediately after my degree.
+    - I developed multiple bespoke platforms and tools to reduce cost and friction in day-to-day work, allowing the union to focus on the more important things for students.
+    - I independently spotted and implemented process improvements throughout the organisation. One of the largest projects involved a greenfield project to transform how student groups were managed and how they interacted with the union, leading to a 50% reduction in the time spent annually.
+    - As the sole developer in a company of around 200 people, I was able to gain a wide range of experience in many different areas and languages. I was also able to truly understand how developers can help organisations whose main focus is not IT and software.
 
 - title: Consult Believe
   subtitle: Web Developer Internship
   from: "March 2018"
   to: "June 2018"
+  description: Consult Believe is a consultancy company that provides web development services to small businesses.
   highlights:
-    - Worked in a small team providing a consultancy service to several clients, using bespoke systems and well-known frameworks such as Drupal.
-    - Focused on customer success, providing a great service to customers whilst keeping our workload sustainable.
-
+    - I worked in a small team providing a consultancy service to several clients, using bespoke systems and well-known frameworks such as Drupal.
+    - Being focused on customer success, I was able to provide a great service to customers whilst keeping our workload sustainable.
+    - Despite the limited time in the internship, I was able to learn a lot about web development and the frameworks available, and improve my code and approach to code from day 1.
+    
 - title: University of Bristol
   subtitle: MSci (Hons) in Physics - 2:1
   from: "2015"
   to: "2019"
   highlights:
-    - Dissertation involved designing a neural network using Tensorflow to analyze data from the Large Hadron Collider to classify particle collisions. <a href="/assets/docs/Final_Year_Project_Report.pdf">View paper</a>
+    - Dissertation involved designing a neural network using Tensorflow to analyze data from the Large Hadron Collider to classify particle collisions. <a href="/assets/docs/Final_Year_Project_Report.pdf" target="_blank">View paper</a>
     - Multiple coding modules, involving highly optimised programs running on supercomputers.
+    - Through a rigorous course of study alongside web development jobs, I was able to gain strong analytical and problem-solving skills, as well as a deep understanding of the underlying concepts of physics and mathematics and how they can be used to solve real-world problems.
+    - Since I self-taught myself to code, I know exactly how I learn and how I can learn quickly, and therefore I was able to quickly adapt to new technologies and frameworks I hadn't seen before.
 
 - title: Torquay Boys' Grammar School
   subtitle: International Baccalaureate
@@ -63,3 +71,4 @@
   to: "2015"
   highlights:
     - 37 points with highers in Maths, Physics and Economics.
+    - My extended essay involved using Python to carry out a fourier transform on a signal, to allow a guitar to be tuned to the correct pitch.
