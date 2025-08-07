@@ -31,6 +31,7 @@
   description: Jadu is a CMS for local government, higher education and healthcare. It allows organisations around the world to build the best possible connections to their customers via low-code products.
   highlights:
     - I worked in a small team to deliver bespoke sites to a number of UK councils.
+    - Working in a small team as part of a larger organisation, I was able to learn a lot about scrum, project management and how organisations can scale and continue to work efficiently.
     - I collaborated with the core CMS developers to ensure a smoother developer experience and quicker results for the customer. This included both using the core CMS code to extend what customers needed, as well as opening lines of communication to the core CMS developers to make sure they were able to meet the needs of customers and proactively improve the platform.
     - I took the initiative to improve tooling around the CMS, including adding Docker support and extending documentation for a better developer experience.
 
@@ -38,7 +39,7 @@
   subtitle: Systems Developer
   from: "July 2017"
   to: "July 2021"
-  description: Bristol Student Union is the union for students at the University of Bristol. They provide a range of services to help students navigate their student experience.
+  description: Bristol Student Union provides a range of services to help students navigate their student experience.
   highlights:
     - I was initially hired as a student for data entry, but quickly spotted opportunities for systems improvements and quickly became a developer, going full time immediately after my degree.
     - I developed multiple bespoke platforms and tools to reduce cost and friction in day-to-day work, allowing the union to focus on the more important things for students.
@@ -54,21 +55,3 @@
     - I worked in a small team providing a consultancy service to several clients, using bespoke systems and well-known frameworks such as Drupal.
     - Being focused on customer success, I was able to provide a great service to customers whilst keeping our workload sustainable.
     - Despite the limited time in the internship, I was able to learn a lot about web development and the frameworks available, and improve my code and approach to code from day 1.
-    
-- title: University of Bristol
-  subtitle: MSci (Hons) in Physics - 2:1
-  from: "2015"
-  to: "2019"
-  highlights:
-    - Dissertation involved designing a neural network using Tensorflow to analyze data from the Large Hadron Collider to classify particle collisions. <a href="/assets/docs/Final_Year_Project_Report.pdf" target="_blank">View paper</a>
-    - Multiple coding modules, involving highly optimised programs running on supercomputers.
-    - Through a rigorous course of study alongside web development jobs, I was able to gain strong analytical and problem-solving skills, as well as a deep understanding of the underlying concepts of physics and mathematics and how they can be used to solve real-world problems.
-    - Since I self-taught myself to code, I know exactly how I learn and how I can learn quickly, and therefore I was able to quickly adapt to new technologies and frameworks I hadn't seen before.
-
-- title: Torquay Boys' Grammar School
-  subtitle: International Baccalaureate
-  from: "2013"
-  to: "2015"
-  highlights:
-    - 37 points with highers in Maths, Physics and Economics.
-    - My extended essay involved using Python to carry out a fourier transform on a signal, to allow a guitar to be tuned to the correct pitch.

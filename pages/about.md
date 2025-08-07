@@ -29,6 +29,11 @@ aim to leave systems - and the world - a little better than I found them.
 {% include about/skills.html title="Tools" source=site.data.other-skills color="danger" %}
 </div>
 
-<div class="row">
-{% include about/timeline.html %}
+<div class="col">
+    <div class="row">
+        {% include about/timeline.html timeline=site.data.experience title="Experience" %}
+    </div>
+    <div class="row">
+        {% include about/timeline.html timeline=site.data.education title="Education" %}
+    </div>
 </div>

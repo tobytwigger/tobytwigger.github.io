@@ -1,0 +1,17 @@
+- title: University of Bristol
+  subtitle: MSci (Hons) in Physics - 2:1
+  from: "2015"
+  to: "2019"
+  highlights:
+    - Dissertation involved designing a neural network using Tensorflow to analyze data from the Large Hadron Collider to classify particle collisions. <a href="/assets/docs/Final_Year_Project_Report.pdf" target="_blank">View paper</a>
+    - Multiple coding modules, involving highly optimised programs running on supercomputers.
+    - Through a rigorous course of study alongside web development jobs, I was able to gain strong analytical and problem-solving skills, as well as a deep understanding of the underlying concepts of physics and mathematics and how they can be used to solve real-world problems.
+    - Since I self-taught myself to code, I know exactly how I learn and how I can learn quickly, and therefore I was able to quickly adapt to new technologies and frameworks I hadn't seen before.
+
+- title: Torquay Boys' Grammar School
+  subtitle: International Baccalaureate
+  from: "2013"
+  to: "2015"
+  highlights:
+    - 37 points with highers in Maths, Physics and Economics.
+    - My extended essay involved using Python to carry out a fourier transform on a signal, to allow a guitar to be tuned to the correct pitch.
