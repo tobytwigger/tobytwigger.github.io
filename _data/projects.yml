@@ -6,13 +6,14 @@
   tools: [PHP, Laravel, Vue, AI, PrimeVue (UI)]
   slug: swytch-tools
 
-- name: TODO - When is Bins?
+- name: When is Bins?
   description: "A raspberry pi based bin notification system"
   text: "A solution to the age old 'what bin is it today?' question."
   remote: false
   open_source: true
   tools: [Python, Raspberry Pi, Nuxt.js, Tailwind, Electronics/Hardware]
   slug: when-is-bins
+  image: /assets/img/projects/when-is-bins/hardware/today.png
 
 - name: Laravel Settings
   open_source: true
@@ -60,7 +61,7 @@
   remote: false
   slug: bristol-su-portal
 
-- name: TODO - UniTruths
+- name: UniTruths
   open_source: false
   description: "Facebook community management for university students."
   text: "An international platform for students to share and connect with their peers."
