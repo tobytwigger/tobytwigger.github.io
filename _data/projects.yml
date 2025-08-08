@@ -1,10 +1,11 @@
-- name: TODO - Swytch Tools
+- name: Swytch Tools
   open_source: false
   description: Bespoke ERP platform for Swytch
   text: "A fully featured ERP platform, including stock management, international dangerous goods shipping, forecasting, returns, order management and more."
   remote: false
   tools: [PHP, Laravel, Vue, AI, PrimeVue (UI)]
   slug: swytch-tools
+  image: /assets/img/projects/swytchtools/logo.png
 
 - name: When is Bins?
   description: "A raspberry pi based bin notification system"
@@ -34,8 +35,9 @@
   remote: true
   repository: "tobytwigger/laravel-job-status"
   description: Tracking, monitoring and interacting with jobs in Laravel
-  text: Tracking dashboard for Laravel jobs, including cancelling, sending arbitrary signals, logging and reporting.
+  text: Tracking dashboard for Laravel jobs, including cancelling, sending arbitrary signals, logging, reporting and an easy interface for providing feedback.
   tools: [PHP, Laravel, Vue, Pinia, Quasar (UI), PHPUnit]
+  image: /assets/img/projects/jobstatus/logo.gif
 
 - name: Form Schema Generator
   open_source: true
@@ -52,14 +54,16 @@
   remote: false
   tools: [PHP, Laravel, Vue, Inertia.js, PHPUnit, Postgis (locations), Vuetify (UI)]
   slug: gps-vault
+  image: /assets/img/projects/gpsvault/logo.png
 
-- name: TODO - Bristol SU Portal
+- name: Bristol SU Portal
   open_source: true
   description: A no-code service delivery platform for Bristol Student Union
   text: "Build and deliver services without code, with access controls, custom forms and more."
   tools: [PHP, Laravel, Vue]
   remote: false
   slug: bristol-su-portal
+  image: /assets/img/projects/bristolsuportal/logo.png
 
 - name: UniTruths
   open_source: false
@@ -68,6 +72,7 @@
   remote: false
   tools: [PHP, Laravel, Bootstrap]
   slug: uni-truths
+  image: /assets/img/projects/unitruths/logo.png
 
 - name: Signed URL
   open_source: true
@@ -77,13 +82,14 @@
   external_url: https://github.com/linkeys-app/signed-url
   tools: [PHP, Laravel, PHPUnit]
 
-- name: TODO - Event Entrance
+- name: Event Entrance
   open_source: false
   description: "A system for managing access to events"
   text: "Designed for the University of Bristol to manage access to the Welcome Fair"
   remote: false
-  tools: [C#, Vue, Bootstrap]
+  tools: [C#, Vue, Bootstrap, .NET, WinForms]
   slug: entrance
+  image: /assets/img/projects/entrance/entrance.png
 
 - name: UnionCloud API Wrapper
   open_source: true
