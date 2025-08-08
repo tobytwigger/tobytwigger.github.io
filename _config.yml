@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Toby Twigger
 description         : >-
-                      Full-stack developer who values clean, purposeful code, mission-driven work, and time spent in the great outdoors.
+                      Full-stack developer who values clean, purposeful code, mission-driven work, and time spent outside and in nature.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tobytwigger/tobytwigger.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : tobytwigger/tobytwigger.github.io
@@ -15,7 +15,6 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
   - pages/404.html
   - pages/index.md
 
