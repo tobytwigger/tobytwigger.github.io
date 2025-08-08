@@ -1,12 +1,9 @@
-
 <div class="card-columns m-3 mt-5">
-
   {%- for defined_project in site.data.projects -%}
 
     {%- if defined_project.remote -%}
 
         {%- for repo in site.github.public_repositories -%}
-
             {%- if defined_project.repository == repo.full_name -%}
                 {%- assign project = repo -%}
                 {%- assign words = project.name | split: '-' -%}
@@ -25,6 +22,7 @@
                 {%- assign project_url   = project.html_url -%}
                 {%- assign project_tools = defined_project.tools | default: project.topics -%}
                 {%- assign external      = true -%}
+                {%- assign project_is_open_source = defined_project.open_source | default: false -%}
                 {%- assign project_text = defined_project.text -%}
 
                 {% include projects/project-card.html %}
@@ -45,7 +43,7 @@
         {%- assign project_desc  = defined_project.description -%}
         {%- assign project_tools = defined_project.tools -%}
         {%- assign project_text = defined_project.text -%}
-
+        {%- assign project_is_open_source = defined_project.open_source | default: false -%}
 
         {%- if defined_project.external_url -%}
             {%- assign project_url = defined_project.external_url -%}

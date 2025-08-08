@@ -1,8 +1,17 @@
 ---
 slug: entrance
+name: Event Entrance
 ---
 
-# Laravel Settings
+# Event Entrance Scanning
+
+## Motivation
+Why did we do this?
+
+## 
+
+## Result
+Decreased wait times X
 
 Laravel Settings provides flexible settings for any Laravel app. Including validation, authorization and encryption 
 out of the box, a native integration with Vue and comprehensive documentation to get you started.

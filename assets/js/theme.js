@@ -23,6 +23,10 @@ function initTheme() {
     setTheme(themes.LIGHT);
   }
 
+    window.onload = function() {
+      updateThemeImages(getTheme())
+    };
+
   // Watch for system theme changes
   window.matchMedia(QUERY_KEY).addEventListener("change", (e) => {
     const newTheme = e.matches ? themes.DARK : themes.LIGHT;
@@ -41,6 +45,21 @@ function getTheme() {
   return document.documentElement.getAttribute(THEME_ATTR);
 }
 
+function updateThemeImages(theme) {
+    document.querySelectorAll('img.theme-img').forEach(img => {
+        const src = img.getAttribute('src');
+        if (theme === themes.DARK) {
+            if (!src.includes('_dark')) {
+                img.setAttribute('src', src.replace(/(\.\w+)$/, '_dark$1'));
+            }
+        } else {
+            img.setAttribute('src', src.replace('_dark', ''));
+        }
+    });
+}
+
 function setTheme(value) {
   document.documentElement.setAttribute(THEME_ATTR, value);
+  console.log('set');
+  updateThemeImages(value);
 }

@@ -4,8 +4,8 @@
 - name: PHPUnit
   percentage: 95
 
-- name: Jest
-  percentage: 85
+- name: Docker
+  percentage: 90
 
 - name: CI
   percentage: 85
@@ -13,5 +13,5 @@
 - name: DevOps
   percentage: 85
 
-- name: Hardware - Raspberry Pi
+- name: Microcontrollers
   percentage: 75

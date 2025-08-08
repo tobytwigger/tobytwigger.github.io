@@ -1,5 +1,6 @@
 ---
 slug: bristol-su-portal
+name: Bristol SU Portal
 ---
 
 # Laravel Settings

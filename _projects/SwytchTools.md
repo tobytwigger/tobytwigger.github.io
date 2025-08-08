@@ -1,5 +1,6 @@
 ---
 slug: swytch-tools
+name: Swytch Tools
 ---
 
 # Swytch Tools

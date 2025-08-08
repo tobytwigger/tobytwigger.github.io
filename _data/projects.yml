@@ -1,67 +1,93 @@
-- name: Swytch Tools
+- name: TODO - Swytch Tools
+  open_source: false
   description: Bespoke ERP platform for Swytch
   text: "A fully featured ERP platform, including stock management, international dangerous goods shipping, forecasting, returns, order management and more."
   remote: false
-  tools: [PHP, Laravel, Vue, AI]
+  tools: [PHP, Laravel, Vue, AI, PrimeVue (UI)]
   slug: swytch-tools
 
-- name: When is Bins?
+- name: TODO - When is Bins?
   description: "A raspberry pi based bin notification system"
   text: "A solution to the age old 'what bin is it today?' question."
   remote: false
-  tools: [Python, Raspberry Pi, Nuxt.js, Tailwind]
+  open_source: true
+  tools: [Python, Raspberry Pi, Nuxt.js, Tailwind, Electronics/Hardware]
   slug: when-is-bins
 
 - name: Laravel Settings
+  open_source: true
   remote: true
   repository: "tobytwigger/laravel-settings"
   text: For config that needs to be modified by users. Includes authorisation, validation, encryption and more.
-  tools: [PHP, Laravel, Vue]
+  tools: [PHP, Laravel, Vue, PHPUnit]
 
 - name: Laravel Translate
+  open_source: true
   remote: true
   repository: "tobytwigger/laravel-translate"
   text: A replacement for Laravel language files, allowing multiple translation providers to be used to get around usage limits.
-  tools: [PHP, Laravel, Vue]
+  tools: [PHP, Laravel, Vue, PHPUnit]
 
 - name: Laravel Job Status
+  open_source: true
   remote: true
   repository: "tobytwigger/laravel-job-status"
   description: Tracking, monitoring and interacting with jobs in Laravel
   text: Tracking dashboard for Laravel jobs, including cancelling, sending arbitrary signals, logging and reporting.
-  tools: [PHP, Laravel, Vue]
+  tools: [PHP, Laravel, Vue, Pinia, Quasar (UI), PHPUnit]
 
 - name: Form Schema Generator
+  open_source: true
   description: Tool to define and display forms using JSON
   text: Forms can be defined in the backend using fluent, typed methods. Generic form fields can be defined in the frontend to match the schema and show the form.
   remote: true
   repository: "tobytwigger/form-schema-generator"
-  tools: [PHP, Laravel, Vue]
+  tools: [PHP, Laravel, Vue, PHPUnit]
 
 - name: GPS Vault
+  open_source: true
   description: Analyse and manage GPS tracks for cycling
   text: "Extract data from GPS files, plan new cycling routes and report on your activities."
   remote: false
-  tools: [PHP, Laravel, Vue]
+  tools: [PHP, Laravel, Vue, Inertia.js, PHPUnit, Postgis (locations), Vuetify (UI)]
   slug: gps-vault
 
-- name: Bristol SU Portal
+- name: TODO - Bristol SU Portal
+  open_source: true
   description: A no-code service delivery platform for Bristol Student Union
   text: "Build and deliver services without code, with access controls, custom forms and more."
   tools: [PHP, Laravel, Vue]
   remote: false
   slug: bristol-su-portal
 
-- name: UniTruths
+- name: TODO - UniTruths
+  open_source: false
   description: "Facebook community management for university students."
   text: "An international platform for students to share and connect with their peers."
   remote: false
   tools: [PHP, Laravel, Bootstrap]
   slug: uni-truths
 
-- name: Event Entrance System
-  description: "An event entrance system"
-  text: "The system used by the University of Bristol to manage access to the Welcome Fair"
+- name: Signed URL
+  open_source: true
+  remote: false
+  description: "A Laravel package for generating signed URLs, including click limits, expiration times, encrypted data and more."
+  text: "Revamped URL signing brought to Laravel. Pass data through any url securely, and control expiry and number of clicks."
+  external_url: https://github.com/linkeys-app/signed-url
+  tools: [PHP, Laravel, PHPUnit]
+
+- name: TODO - Event Entrance
+  open_source: false
+  description: "A system for managing access to events"
+  text: "Designed for the University of Bristol to manage access to the Welcome Fair"
   remote: false
   tools: [C#, Vue, Bootstrap]
   slug: entrance
+
+- name: UnionCloud API Wrapper
+  open_source: true
+  descripition: "An API client"
+  text: "PHP-based API client for UnionCloud, a student union management system"
+  remote: false
+  tools: [PHP, Laravel, PHPUnit]
+  external_url: https://github.com/bristol-su/nus-unioncloud-api-wrapper

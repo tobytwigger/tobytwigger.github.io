@@ -1,5 +1,6 @@
 ---
 slug: uni-truths
+name: UniTruths
 ---
 
 # Laravel Settings

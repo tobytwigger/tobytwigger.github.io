@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 weight: 3
-external_url: "/assets/docs/CV - Toby Twigger.pdf"
+external_url: "/assets/docs/Resume - Toby Twigger.pdf"
 ---
 
 # **About Me**
