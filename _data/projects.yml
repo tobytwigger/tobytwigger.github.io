@@ -62,7 +62,7 @@
   text: "Build and deliver services without code, with access controls, custom forms and more."
   tools: [PHP, Laravel, Vue]
   remote: false
-  slug: bristol-su-portal
+  slug: bsu
   image: /assets/img/projects/bristolsuportal/logo.png
 
 - name: UniTruths

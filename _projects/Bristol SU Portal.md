@@ -1,5 +1,5 @@
 ---
-slug: bristol-su-portal
+slug: bsu
 name: Bristol SU Portal
 images:
     - src: /assets/img/projects/bristolsuportal/studentpage.png
