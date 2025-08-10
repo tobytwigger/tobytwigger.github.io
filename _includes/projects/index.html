@@ -51,7 +51,6 @@
         {%- else -%}
             {%- for project_html in site.projects -%}
                 {%- if project_html.slug == defined_project.slug -%}
-
                     {%- assign project_url = project_html.url | relative_url -%}
                     {%- assign external    = false -%}
                 {%- endif -%}
