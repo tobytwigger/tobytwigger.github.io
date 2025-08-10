@@ -1,25 +1,22 @@
 - title: Swytch
   subtitle: Lead Developer
-  description: Swytch empowers people to choose sustainable transport by electrifying their existing bikes. This has enabled over 100,000 users to reduce emissions and make eco-friendly travel accessible worldwide.
+  description: Swytch empowers people to choose sustainable transport by electrifying their existing bicycle. This has enabled over 100,000 users to reduce emissions and make eco-friendly travel accessible worldwide.
   from: "September 2022"
   to: "Present"
   highlights:
-    - While at Swytch, I led the full development lifecycle of a bespoke ERP system, including a live warehouse platform for stock management, international dangerous goods shipping, stock forecasting, returns handling and anything else that was needed. <a href="/projects/swytchtools" target="_blank">See more about this project.</a>
-    - I worked closely with the rest of the business to convert ideas, painpoints and timesinks into a cohesive platform that transformed how we operated, taking on-time deliveries from 30% to 70% while reducing our operational costs.
-    - I found and implemented multiple open source projects to quickly enable things like business intelligence and rapid AI integration, letting us deliver maximum impact with minimum budget and effort. Through delivering training, I was able to increase the impact of these tools and allow users to independently improve their own workflows.
-    - Through architecting a scalable and robust system, I enabled multiple daily releases and rapid iterations on features, allowing us to deliver exactly what the company needed and to pivot when necessary. For example, through a just-in-time stock pivot, we were able to reduce stock overheads by £1M.
-    - With careful planning and putting users and their needs at the heart of everything I did, as well as monitoring the entire lifecycle of the project, we were able to see the impact of new features immediately and carry the momentum forward to generate new ideas.
-    - Keeping up to date with the latest technologies, I was able to quickly implement and deploy new features and tools, such as using large language models to automate parts of customer support.
-    - Through constant personal learning and development, I was able to improve communications with the rest of the business, ensuring everyone was on the same page, the most important features were always prioritised and that others knew what was being done and when.
-    - Using ideas from well-established books such as 'The Phoenix Project' and 'Turn the ship around', I fostered and maintained a culture of continuous learning and development, allowing us to deliver the best possible experience for our users.
+    - Led the full development lifecycle of a bespoke ERP system, including a warehouse management platform for stock management and international dangerous goods shipping, stock forecasting, returns handling and lots more. <a href="/projects/swytchtools" target="_blank">See more about this project.</a>
+    - Through careful architecting of a scalable and robust system, alongside prioritising delivering value quickly, I enabled multiple daily releases and rapid iterations on features, allowing us to deliver exactly what was needed. For example, it enabled a just-in-time stock pivot, reducing stock overheads by £1M.
+    - Through putting users first, I was able to convert ideas and painpoints into a cohesive platform that transformed operations, taking on-time deliveries from 30% to 70% while reducing operational costs.
+    - Fostered a culture of continuous learning and development, applying principles from “The Phoenix Project” and “Turn the Ship Around,” mentoring a junior developer effectively, and improving communication to align priorities across the business.
+    - Keeping up to date with the latest technologies, I was able to quickly implement and deploy new features and tools, such as using large language models to automate parts of customer support and augment existing workflows. Through delivering training, I was able to increase the impact of these tools and empower users to independently improve their own workflows on minimal budget.
 
 - title: ElbowSpace
   subtitle: Senior Full-Stack Developer
   from: "July 2021"
   to: "August 2022"
-  description: ElbowSpace aimed to combine modern web development with the requirements of Student Unions to improve the student experience.
+  description: ElbowSpace aimed to combine modern web development standards with the requirements of Student Unions to improve the student experience.
   highlights:
-    - I lead development of a custom platform for Student Union membership management, making sure it was secure, user-friendly and what Student Unions needed.
+    - I led development of a custom platform for Student Union membership management, making sure it was secure, user-friendly and what Student Unions needed.
     - I worked closely with customers and other developers to target features and prioritise development.
     - As the first hire at ElbowSpace, I played an integral part in managing the direction of the company, gaining a much wider experience of running a startup and the opportunities and pitfalls involved.
     - Through analysing and assessing new technology for suitability, I was able to make architectural decisions that allowed us to change and pivot features to suit different customers needs.
@@ -30,8 +27,8 @@
   to: "July 2021"
   description: Jadu is a CMS for local government, higher education and healthcare. It allows organisations around the world to build the best possible connections to their customers via low-code products.
   highlights:
-    - I worked in a small team to deliver bespoke sites to a number of UK councils.
-    - Working in a small team as part of a larger organisation, I was able to learn a lot about scrum, project management and how organisations can scale and continue to work efficiently.
+    - I worked in a small engineering team to deliver bespoke sites to a number of UK councils.
+    - Working in a larger organisation, I was able to learn a lot about scrum, project management and how organisations can scale and continue to work efficiently.
     - I collaborated with the core CMS developers to ensure a smoother developer experience and quicker results for the customer. This included both using the core CMS code to extend what customers needed, as well as opening lines of communication to the core CMS developers to make sure they were able to meet the needs of customers and proactively improve the platform.
     - I took the initiative to improve tooling around the CMS, including adding Docker support and extending documentation for a better developer experience.
 

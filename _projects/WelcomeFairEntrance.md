@@ -28,7 +28,7 @@ entrance tents.
 
 ## Tech
 
-The project consisted of a Windows app, built using WinForms in C# on the .NET 4 framework. A student would scan their 
+The project consisted of a Windows app, built using WinForms in C# on the .NET framework. A student would scan their 
 student ID card at 
 the 
 entrance, which would then be checked against the database and the student would be allowed through or rejected and 

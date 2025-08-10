@@ -24,7 +24,8 @@ images:
           alt: "Bin modules"
           caption: "Customisable bin modules"
           description: "Each bin is actually a detachable button. Any size, colour or shape can be used to 
-          manufacture the bin model."
+          manufacture the bin model - essential for a country where every council has different rules for waste and 
+          recycling."
         - src: "/assets/img/projects/when-is-bins/hardware/bin_modules_base.png"
           alt: "Bin modules"
           caption: "Customisable bin bases"
@@ -34,15 +35,18 @@ images:
         - src: "/assets/img/projects/when-is-bins/hardware/pcb.png"
           alt: "PCB"
           caption: "The PCB"
-          description: "The PCB was designed from scratch and manufactured using a third party manufacturer."
+          description: "The PCB was designed from scratch using KiCAD and manufactured using a third party 
+          manufacturer."
         - src: "/assets/img/projects/when-is-bins/hardware/circuit.png"
           alt: "Circuit Diagram"
           caption: "Circuit Diagram"
-          description: "The circuit diagram was designed using KiCAD."
+          description: "The circuit diagram was designed after breadboarding using KiCAD."
         - src: "/assets/img/projects/when-is-bins/hardware/pcb_soldered.png"
           alt: "Soldered PCB"
           caption: "Soldered PCB"
-          description: "Each component of the PCB was hand soldered onto the board."
+          description: "Each component of the PCB was hand soldered onto the board. Using pin headers rather than 
+          soldering buttons directly to the board allows for easy replacement of modules and therefore prioritises 
+          repair over replacement."
         - src: "/assets/img/projects/when-is-bins/hardware/pcb_installed.png"
           alt: "PCB Installation"
           caption: "PCB Installation"
@@ -83,7 +87,9 @@ BBC Radio 4's 'Friday Night Comedy' show over Christmas often jokes about no-one
 collected during the disrupted schedule of the holidays. This gave me an idea, and a good excuse to dig back out the 
 raspberry pi and dust off my electronics experience.
 
-When is Bins is a rasperry pi based product for showing when your different bins are collected.
+When is Bins is a rasperry pi based product for showing when your different bins are collected. Complete with 3D 
+printed light up bin models doubling as buttons, a motion sensor, a full mobile-friendly web interface and custom 
+designed hardware for reducing costs, it really is the epitome of unnecessary technology, and was a lot of fun to build!
 
 {% include elements/carousel.html images=page.images.images id="images" %}
 
@@ -99,9 +105,16 @@ relevant council website if given your postcode.
 
 ## Key Features
 
+The Python script was built from scratch, bringing what I've learned about scalable web platforms to hardware.
+
 {% include elements/carousel.html images=page.images.features id="features" %}
 
+A 3D printer helped to design a prototype case for the electronics.
+
 {% include elements/carousel.html images=page.images.bin_modules id="bin_modules" %}
+
+The raspberry pi also runs a node.js server, to allow the user to easily configure their bins without being limited 
+by the inputs available through the hardware.
 
 {% include elements/carousel.html images=page.images.software id="software" %}
 
@@ -114,6 +127,8 @@ raspberry pi to retrieve the information from the server directly.
 More iterations of the product are also in the works, mostly to reduce the size of the hardware and improve the 
 internal wiring.
 
+Once complete, I intend on polishing the GitHub repository to allow anyone to print and solder their own b-indicator.
+
 ## Development
 
 {% include elements/carousel.html images=page.images.build id="build" %}
@@ -121,3 +136,11 @@ internal wiring.
 ## Source Code
 
 > You can find the full source code on [GitHub](https://github.com/tobytwigger/when-is-bins)
+
+The Python scripts can be found in the `python` directory.
+
+The Node.js server can be found in the `js` directory.
+
+The PCB design can be found in the `schematics` directory.
+
+The remaining files are predominantly around deployment, and currently allow for easy updating of the firmware.

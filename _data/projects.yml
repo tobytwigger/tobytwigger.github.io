@@ -34,15 +34,15 @@
   open_source: true
   remote: true
   repository: "tobytwigger/laravel-job-status"
-  description: Tracking, monitoring and interacting with jobs in Laravel
-  text: Tracking dashboard for Laravel jobs, including cancelling, sending arbitrary signals, logging, reporting and an easy interface for providing feedback.
+  description: Two-way communication for Laravel jobs
+  text: Two-way communication for Laravel jobs, including cancelling, sending arbitrary signals, logging, reporting and an easy interface for providing feedback.
   tools: [PHP, Laravel, Vue, Pinia, Quasar (UI), PHPUnit]
   image: /assets/img/projects/jobstatus/logo.gif
 
 - name: Form Schema Generator
   open_source: true
   description: Tool to define and display forms using JSON
-  text: Forms can be defined in the backend using fluent, typed methods. Generic form fields can be defined in the frontend to match the schema and show the form.
+  text: Forms can be defined in the backend using fluent, typed methods. Generic form fields can be defined in the frontend to match the schema and display the form.
   remote: true
   repository: "tobytwigger/form-schema-generator"
   tools: [PHP, Laravel, Vue, PHPUnit]
@@ -77,8 +77,8 @@
 - name: Signed URL
   open_source: true
   remote: false
-  description: "A Laravel package for generating signed URLs, including click limits, expiration times, encrypted data and more."
-  text: "Revamped URL signing brought to Laravel. Pass data through any url securely, and control expiry and number of clicks."
+  description: "A Laravel package for generating signed URLs"
+  text: "Revamped URL signing brought to Laravel. Pass encrypted data through any url securely, control expiry dates, and limit the number of clicks."
   external_url: https://github.com/linkeys-app/signed-url
   tools: [PHP, Laravel, PHPUnit]
 

@@ -67,7 +67,7 @@ syncing, and secure data backups. While the project is no longer maintained and 
 
 And more...
 
-- **Seamless Data Sync:** Import from Strava, Dropbox, and more—your data, your way.
+- **Seamless Data Sync:** Import from Strava, Dropbox, and more - your data, your way.
 - **Granular Sync Controls:** Choose exactly which routes sync to your GPS device.
 - **Modern, Intuitive UI:** Built with Vue, Vuetify, and MapLibre for a seamless, beautiful experience.
 

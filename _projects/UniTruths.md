@@ -26,7 +26,8 @@ Uni-Truths is a Facebook community management platform for university students. 
 closure of Yik-Yak, a popular anonymous, location-based social media platform.
 
 Using Uni-Truths, we were able to create a moderation platform for students to manage their own communities. 
-Starting at the University of Bristol, Uni-Truths is now used internationally by a large number of students.
+Starting at the University of Bristol, Uni-Truths is now used internationally by a large number of students with 
+over 100,000 monthly users.
 
 The tech is now maintained but not actively developed.
 
