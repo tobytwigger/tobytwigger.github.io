@@ -1,6 +1,6 @@
 <div id="carouselExampleIndicators-{{include.id}}" class="carousel slide" style="margin-top: 1rem; margin-bottom: 3rem" data-ride="false" data-interval="false">
 
-  <ol class="carousel-indicators">
+  <ol class="carousel-indicators dark-toggle">
     {% for image in include.images %}
         {%- if forloop.first -%}
           <li data-target="#carouselExampleIndicators-{{include.id}}" data-slide-to="{{forloop.index0}}" class="active"></li>
@@ -37,12 +37,12 @@
   </div>
 
   <a class="carousel-control-prev" href="#carouselExampleIndicators-{{include.id}}" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="carousel-control-prev-icon dark-toggle" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
 
   <a class="carousel-control-next" href="#carouselExampleIndicators-{{include.id}}" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="carousel-control-next-icon dark-toggle" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 
